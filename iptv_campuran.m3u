@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="chanel indonesia",IPTV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia",IPTV
 https://satryamahaputra.my.id/navbar-logo.png
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx",AdultIPTV.net Anal (720p)
 https://cdn.adultiptv.net/anal.m3u8
@@ -187,181 +187,181 @@ http://w4.12all.tv:4000/play/privatetv1/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://vod2t.xpanded.com/x3tv2/index_wlan.m3u8
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1, O-la-la
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", O-la-la
 http://31.148.48.15:80/O-la-la/index.m3u8?token=test
-#EXTINF:-1, Erox
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Erox
 http://94.229.250.73:8008/play/a002
-#EXTINF:-1, Playboy
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X 
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1, Шелк
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Шелк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
-#EXTINF:-1, Penthouse Gold HD
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Penthouse Gold HD
 http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1, Русская ночь
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Русская ночь
 http://94.154.83.88:10000/russiannight
-#EXTINF:-1, Кино 18+
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1, Passion XXX
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Passion XXX
 http://62.176.77.22:9781/play/a00n
-#EXTINF:-1, Vivid Red
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Vivid Red
 http://62.176.77.22:9781/play/a00m
-#EXTINF:-1, Evil Angel
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Evil Angel
 http://62.176.77.22:9781/play/a00l 
-#EXTINF:-1, Hustler HD
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Hustler HD
 https://cdn-global.lolokoko.tv/HUSTLER.stream/chunks.m3u8 
-#EXTINF:-1, Private TV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Private TV
 http://149.62.183.194:9293/play/a07t
-#EXTINF:-1, Babestation 24
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Babestation 24
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8 
-#EXTINF:-1, Brazzers TV Europe
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Brazzers TV Europe
 https://cdn-global.lolokoko.tv/BRAZZERS.stream/chunks.m3u8 
-#EXTINF:-1, Redlight HD
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Redlight HD
 https://cdn-global.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
-#EXTINF:-1, Шалун
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Шалун
 http://31.134.132.245:8080/shalun_hd/index.m3u8
-#EXTINF:-1, Babes TV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Babes TV
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6172/index.m3u8
-#EXTINF:-1, Barely Legal 
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Barely Legal 
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/871/index.m3u8
-#EXTINF:-1, Red Lips 
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Red Lips 
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/6271/index.m3u8
-#EXTINF:-1, Blue Hustler 
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Blue Hustler 
 http://31.134.132.245:8080/hustler_hd/index.m3u8ips
-#EXTINF:-1, Dorcel TV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Dorcel TV
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
-#EXTINF:-1, Extasy 4K
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx", Extasy 4K
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", USEETV SPORT
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", USEETV SPORT
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
-#EXTINF:-1,®satryamahaputra.my.id RCTI group-title="Chanel Indonesia",
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", RCTI group-title="Chanel Indonesia",
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id MNC group-title="Chanel Indonesia",
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", MNC group-title="Chanel Indonesia",
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id INEWS group-title="Chanel Indonesia",
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", INEWS group-title="Chanel Indonesia",
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id GLOBALTV group-title="Chanel Indonesia",
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", GLOBALTV group-title="Chanel Indonesia",
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id SCTV group-title="Chanel Indonesia",
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", SCTV group-title="Chanel Indonesia",
 http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id INDOSIAR
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", INDOSIAR
 http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id TRANS TV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", TRANS TV
 http://202.80.222.6/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id TRANS 7
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", TRANS 7
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id ANTV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1,®satryamahaputra.my.id NET
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", NET
 http://lihattv.com/?play=43396
-#EXTINF:-1,®satryamahaputra.my.id NET HD
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", NET HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:-1,®satryamahaputra.my.id KOMPAS TV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", KOMPAS TV
 http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
-#EXTINF:-1,®satryamahaputra.my.id TV ONE
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", TV ONE
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id TVRI
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
-#EXTINF:-1,®satryamahaputra.my.id TVRI SPORT
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", TVRI SPORT
 http://lihattv.com/?play=43422
-#EXTINF:-1,®satryamahaputra.my.id METRO TV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", METRO TV
 http://210.210.155.35/qwr9ew/s/s49/index1.m3u8
-#EXTINF:-1,®satryamahaputra.my.id CNN_INDONESIA
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", CNN_INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1,®satryamahaputra.my.id BERITA_SATU_HD
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", BERITA_SATU_HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1,®satryamahaputra.my.id RCTV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", RCTV
 http://lihattv.com/?play=43254
-#EXTINF:-1,®satryamahaputra.my.id TVRI SPORT
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", TVRI SPORT
 http://lihattv.com/?play=43422
-#EXTINF:-1,®satryamahaputra.my.id NIRWANA TV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", NIRWANA TV
 http://lihattv.com/?play=43257
-#EXTINF:-1,®satryamahaputra.my.id JAWAPOS TV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", JAWAPOS TV
 http://lihattv.com/?play=43263
-#EXTINF:-1,®satryamahaputra.my.id JTV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", JTV
 http://lihattv.com/?play=43272
-#EXTINF:-1,®satryamahaputra.my.id RTV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", RTV
 http://210.210.155.35/qwr9ew/s/s12/index1.m3u8
-#EXTINF:-1,®satryamahaputra.my.id TV_MUHAMMADIYAH
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", TV_MUHAMMADIYAH
 rtmp://118.97.183.222:1935/discover/muhammadiyahtv
-#EXTINF:-1,®satryamahaputra.my.id ICTA TV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", ICTA TV
 http://lihattv.com/?play=43310
-#EXTINF:-1,®satryamahaputra.my.id KLIK MUSIC
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", KLIK MUSIC
 http://lihattv.com/?play=43211
-#EXTINF:-1,®satryamahaputra.my.id RBTV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", RBTV
 http://lihattv.com/?play=43230
-#EXTINF:-1,®satryamahaputra.my.id RODJA TV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", RODJA TV
 http://210.210.155.35/qwr9ew/s/s14/index1.m3u8
-#EXTINF:-1,®satryamahaputra.my.id FILM INDO
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", FILM INDO
 http://lihattv.com/?play=43192
-#EXTINF:-1,®satryamahaputra.my.id BTV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", BTV
 http://lihattv.com/?play=43251
-#EXTINF:-1,®satryamahaputra.my.id JPNN TV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", JPNN TV
 http://lihattv.com/?play=43275
-#EXTINF:-1,®satryamahaputra.my.id MNC NEWS
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", MNC NEWS
 http://lihattv.com/?play=43111
-#EXTINF:-1,®satryamahaputra.my.id MNC SHOP
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", MNC SHOP
 http://lihattv.com/?play=43421
-#EXTINF:-1,®satryamahaputra.my.id MNC LIFESTYLE
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", MNC LIFESTYLE
 http://lihattv.com/?play=43117
-#EXTINF:-1,®satryamahaputra.my.id CHANEL NEWS ASIA
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", CHANEL NEWS ASIA
 http://lihattv.com/?play=43361
-#EXTINF:-1,®satryamahaputra.my.id ELSHINTA TV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", ELSHINTA TV
 http://lihattv.com/?play=43394
-#EXTINF:-1,®satryamahaputra.my.id THE INDONESIA CHANNEL
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", THE INDONESIA CHANNEL
 http://lihattv.com/?play=43307
-#EXTINF:-1,®satryamahaputra.my.id FOX LIFE
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", FOX LIFE
 http://lihattv.com/?play=43342
-#EXTINF:-1,®satryamahaputra.my.id MY CINEMA
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", MY CINEMA
 http://lihattv.com/?play=43427
-#EXTINF:-1,®satryamahaputra.my.id KIX
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", KIX
 http://lihattv.com/?play=43340
-#EXTINF:-1,®satryamahaputra.my.id BLACK DIAMOND
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", BLACK DIAMOND
 http://lihattv.com/?play=43212
-#EXTINF:-1,®satryamahaputra.my.id GOLD DIAMOND
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", GOLD DIAMOND
 http://lihattv.com/?play=43221
-#EXTINF:-1,®satryamahaputra.my.id AVAVA DIAMOND
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", AVAVA DIAMOND
 http://lihattv.com/?play=43218
-#EXTINF:-1,®satryamahaputra.my.id RED DIAMOND
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", RED DIAMOND
 http://lihattv.com/?play=43224
-#EXTINF:-1,®satryamahaputra.my.id KOREA DRAMA
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", KOREA DRAMA
 http://lihattv.com/?play=43420
-#EXTINF:-1,®satryamahaputra.my.id K+
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", K+
 http://lihattv.com/?play=43343
-#EXTINF:-1,®satryamahaputra.my.id V CHANNEL
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", V CHANNEL
 http://lihattv.com/?play=43419
-#EXTINF:-1,®satryamahaputra.my.id THRILL
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", THRILL
 http://lihattv.com/?play=43415
-#EXTINF:-1,®satryamahaputra.my.id CELESTRIAL MOVIE
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", CELESTRIAL MOVIE
 http://lihattv.com/?play=43414
-#EXTINF:-1,®satryamahaputra.my.id ZEE BISOKOP
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", ZEE BISOKOP
 http://lihattv.com/?play=43413
-#EXTINF:-1,®satryamahaputra.my.id AVAVA BOLYWOOD
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", AVAVA BOLYWOOD
 http://lihattv.com/?play=43208
-#EXTINF:-1,®satryamahaputra.my.id FOX
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", FOX
 http://lihattv.com/?play=43346
-#EXTINF:-1,®satryamahaputra.my.id FOX FAMILY MOVIES
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", FOX FAMILY MOVIES
 http://lihattv.com/?play=43352
-#EXTINF:-1,®satryamahaputra.my.id FOX ACTION MOVIES
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", FOX ACTION MOVIES
 http://lihattv.com/?play=43351
-#EXTINF:-1,®satryamahaputra.my.id FOX LIFE
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", FOX LIFE
 http://lihattv.com/?play=43342
-#EXTINF:-1,®satryamahaputra.my.id MY CINEMA
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", MY CINEMA
 http://lihattv.com/?play=43427
-#EXTINF:-1,®satryamahaputra.my.id KIX
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", KIX
 http://lihattv.com/?play=43340
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", FOX SPORT HK
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", FOX SPORT HK
 http://lihattv.com/?play=43359
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", FOX SPORT 1
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", FOX SPORT 1
 http://lihattv.com/?play=43353.m3u
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", FOX SPORT 2
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", FOX SPORT 2
 http://lihattv.com/?play=43354
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", FOX SPORT 3
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", FOX SPORT 3
 http://lihattv.com/?play=43355
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", NATIONAL GEOGRAPHIC
 http://lihattv.com/?play=43347
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", NAT GEO WILD
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", NAT GEO WILD
 http://lihattv.com/?play=43348
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", CGTN DOCUMENTARY
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", CGTN DOCUMENTARY
 http://lihattv.com/?play=43404
