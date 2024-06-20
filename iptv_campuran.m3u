@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTVLCOPT--http-reconnect=true tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia",IPTV
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia",#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://api.vidio.com/live/782-antv
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx",AdultIPTV.net Anal (720p)
 https://cdn.adultiptv.net/anal.m3u8
@@ -251,8 +251,6 @@ http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
 http://202.80.222.6/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
 #EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", TRANS 7
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/1024.m3u8
-#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", ANTV
-https://player.twitch.tv/?channel=antv_digimed&parent=www.antvklik.com
 #EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", NET
 http://lihattv.com/?play=43396
 #EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", NET HD
