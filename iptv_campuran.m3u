@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia",IPTV
-https://player.twitch.tv/?channel=antv_digimed&parent=www.antvklik.com.m3u8
+#EXTVLCOPT--http-reconnect=true tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia",IPTV
+https://api.vidio.com/live/782-antv
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx",AdultIPTV.net Anal (720p)
 https://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx",AdultIPTV.net Asian (720p)
