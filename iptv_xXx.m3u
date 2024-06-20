@@ -233,17 +233,17 @@ http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
 #EXTINF:-1, == ®satryamahaputra.my.id IPTV ==
 https://satryamahaputra.my.id/navbar-logo.png
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia" USEETV SPORT
+#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", USEETV SPORT
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
-#EXTINF:-1,®satryamahaputra.my.id RCTI group-title="Chanel Indonesia"
+#EXTINF:-1,®satryamahaputra.my.id RCTI group-title="Chanel Indonesia",
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id MNC group-title="Chanel Indonesia"
+#EXTINF:-1,®satryamahaputra.my.id MNC group-title="Chanel Indonesia",
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id INEWS group-title="Chanel Indonesia"
+#EXTINF:-1,®satryamahaputra.my.id INEWS group-title="Chanel Indonesia",
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id GLOBALTV group-title="Chanel Indonesia"
+#EXTINF:-1,®satryamahaputra.my.id GLOBALTV group-title="Chanel Indonesia",
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
-#EXTINF:-1,®satryamahaputra.my.id SCTV group-title="Chanel Indonesia"
+#EXTINF:-1,®satryamahaputra.my.id SCTV group-title="Chanel Indonesia",
 http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
 #EXTINF:-1,®satryamahaputra.my.id INDOSIAR
 http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
@@ -351,17 +351,17 @@ http://lihattv.com/?play=43342
 http://lihattv.com/?play=43427
 #EXTINF:-1,®satryamahaputra.my.id KIX
 http://lihattv.com/?play=43340
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia" FOX SPORT HK
+#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", FOX SPORT HK
 http://lihattv.com/?play=43359
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia" FOX SPORT 1
+#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", FOX SPORT 1
 http://lihattv.com/?play=43353.m3u
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia" FOX SPORT 2
+#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", FOX SPORT 2
 http://lihattv.com/?play=43354
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia" FOX SPORT 3
+#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", FOX SPORT 3
 http://lihattv.com/?play=43355
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia" NATIONAL GEOGRAPHIC
+#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", NATIONAL GEOGRAPHIC
 http://lihattv.com/?play=43347
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia" NAT GEO WILD
+#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", NAT GEO WILD
 http://lihattv.com/?play=43348
-#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia" CGTN DOCUMENTARY
+#EXTINF:-1,®satryamahaputra.my.id group-title="Chanel Indonesia", CGTN DOCUMENTARY
 http://lihattv.com/?play=43404
