@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:--http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://api.vidio.com/live/782-antv
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="xXx_ICLIK_xXx",AdultIPTV.net Anal (720p)
 https://cdn.adultiptv.net/anal.m3u8
