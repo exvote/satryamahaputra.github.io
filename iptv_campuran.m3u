@@ -235,15 +235,15 @@ http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/245/index.m3u8
 http://22def5f4.rossteleccom.net/iptv/8ZA35K4R3BWEFP/5014/index.m3u8
 #EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", USEETV SPORT
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
-#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", RCTI group-title="Chanel Indonesia",
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", RCTI 
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
-#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", MNC group-title="Chanel Indonesia",
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", MNC 
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
-#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", INEWS group-title="Chanel Indonesia",
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", INEWS 
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8
-#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", GLOBALTV group-title="Chanel Indonesia",
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", GLOBALTV 
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
-#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", SCTV group-title="Chanel Indonesia",
+#EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", SCTV 
 http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
 #EXTINF:-1 tvg-id="satryamahaputra.my.id" tvg-logo="https://satryamahaputra.my.id/navbar-logo.png" group-title="Chanel Indonesia", INDOSIAR
 http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
